@@ -1,5 +1,5 @@
 # blog
 
-This is my first commit.
+This is my Blog.
+内容请看[issues](https://github.com/miffy24/blog/issues)
 
-## This is my second commit.
